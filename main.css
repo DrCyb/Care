@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Yeseva One', cursive;
+}
+
+.aside{
+/*     border: 1px solid black; */
+    padding-left: 10px;
+    width: 100%;
+}
+h4{
+    padding-top: 50px;
+}
+/* h4 .fourth .fifth .sixth{
+    color: #868686;
+} */
+p {
+    
+    padding-top: 10px;
+    color: #a0a0a0;
+}
+table{
+    margin-top: 30px;
+    width: 100%;
+}
+.view{
+    border: 0.2px solid #a0a0a0;
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+    /* padding-bottom: 40px; */
+}
+.month{
+    text-align: left;
+    }
+.numbers{
+    text-align: right;
+}
