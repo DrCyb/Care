@@ -44,5 +44,6 @@ table{
     padding: 3px;
     border: 0;
     box-shadow: 0;
-    display: inline;
+    display: inline-flex;
+    justify-content: space-between;
 }
